@@ -1,1 +1,1 @@
-I am creating a drawing with a peace sugn and filling in each section of the peace sugn eith a different color poka dots.
+I am creating a drawing with a peace sign and filling in each section of the peace sign either a different color poka dots.
